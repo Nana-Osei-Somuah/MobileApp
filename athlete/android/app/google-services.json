@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627244235404",
+    "project_id": "athlete-f2157",
+    "storage_bucket": "athlete-f2157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627244235404:android:191a57a08b248fa77a99a9",
+        "android_client_info": {
+          "package_name": "com.example.athlete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627244235404-gfc4f4m1esu4l5a1oq3bmu0q60mqet2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxaTVX97_isGOmAAufJYav-ZI1IDMeRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627244235404-gfc4f4m1esu4l5a1oq3bmu0q60mqet2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
